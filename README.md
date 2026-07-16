@@ -1,35 +1,36 @@
-Digital Literacy Portfolio  
+# Digital Literacy Portfolio
 
-## Project Overview  
-This Digital Literacy Portfolio is made as part of the CSE0001 Digital Literacy course at VIT Bhopal University. The main aim of this project is to understand how to use digital tools, behave properly online, communicate in a professional way, and stay safe on the internet.  
+Coursework portfolio for the CSE0001 Digital Literacy course at VIT Bhopal University.
 
-In this portfolio, I have completed different practical tasks. These tasks show that I can use digital platforms properly, create a professional online presence, and understand basic cyber security risks. All the tasks are arranged clearly so they are easy to view and understand.  
+## About
 
-## Student Details  
-**Name:** Geetesh Parashar  
-**Registration Number:** 25MIP10146  
-**Branch:** Integrated Mtech in computational and data science
-**Year:** First Year B.Tech  
-**Institution:** VIT Bhopal University  
+This repository collects the practical tasks submitted for CSE0001 Digital Literacy. The tasks cover using digital tools responsibly, building a professional online presence, understanding basic coding/collaboration platforms, writing professional emails, and recognizing common cybercrime risks such as phishing.
 
-## Module Summaries  
+**Student:** Geetesh Parashar
+**Registration Number:** 25MIP10146
+**Program:** Integrated M.Tech in Computational and Data Science (First Year)
+**Institution:** VIT Bhopal University
 
-### Task 1 Digital Literacy Infographic  
-I created a one page infographic using Canva. It explains what digital literacy is, useful tools for students, safe internet use, and how to behave professionally online.  
+## Contents
 
-### Task 2 Student Digital Portfolio  
-I created professional profiles on platforms like LinkedIn, GitHub, and Kaggle. This helps in building a strong online presence.  
+| Folder | Description |
+|---|---|
+| [`Task-1 Presentation`](./Task-1%20Presentation) | One-page infographic (Canva) on what digital literacy is, useful tools for students, and safe/professional online behavior. |
+| [`Task-2 Portfolio`](./Task-2%20Portfolio) | Screenshots of professional profiles set up on LinkedIn, GitHub, HackerRank, and Kaggle. |
+| [`Task-3 Platforms`](./Task-3%20Platforms) | Evidence of a beginner-level HackerRank coding challenge and a Digital Literacy Awareness Quiz built with Google Forms. |
+| [`Task-4 Email Etiquette`](./Task-4%20Email%20Etiquette) | Two professional emails (assignment extension request, internship application) and a social media etiquette checklist for college students. |
+| [`Task-5 cybercrime`](./Task-5%20cybercrime) | A phishing attack case study and a checklist for staying safe online, including UPI payment safety. |
+| [`Report`](./Report) | Full project report submitted for the course (`25MIP10146 Project Report Digital Literacy.pdf`). |
 
-### Task 3 Coding and Collaboration Platforms  
-I completed a beginner level coding challenge on HackerRank. I also created a Digital Literacy Awareness Quiz using Google Forms.  
+## Links
 
-### Task 4 Email Etiquette  
-I wrote two professional emails. One was for requesting an assignment extension and the other was for applying to an internship. I also made a checklist for good social media behavior.  
+- [Digital Literacy Awareness Quiz](https://forms.gle/HDtrxiCyE8uKjBP86)
+- Report cybercrime: [cybercrime.gov.in](https://cybercrime.gov.in) | Helpline: 1930
 
-### Task 5 Cybercrime Awareness  
-I studied phishing attacks and made a simple case study. I also created a checklist to stay safe online, especially while using UPI payments.  
+## Author
 
-## Links  
-[Digital Literacy Quiz](https://forms.gle/HDtrxiCyE8uKjBP86)  
+**Geetesh Parashar**
+Integrated M.Tech, Computational and Data Science
+VIT Bhopal University
 
-Submitted as part of CSE0001 Digital Literacy VIT Bhopal University
+Submitted as coursework for CSE0001 Digital Literacy.
